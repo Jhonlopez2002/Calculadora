@@ -1,1 +1,0 @@
-﻿# Calculatora sencilla
